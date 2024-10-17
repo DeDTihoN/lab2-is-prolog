@@ -1,3 +1,4 @@
+```
 structure
 ├── building
 │   ├── house
@@ -13,3 +14,4 @@ structure
 │   ├── suspension_bridge
 │   │   ├── golden_gate_bridge
 │   │   └── brooklyn_bridge
+```
